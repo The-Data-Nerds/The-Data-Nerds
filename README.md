@@ -100,7 +100,7 @@ Our vision for the community includes:
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source. Please check the repository for licensing details.
 
 ## 🌟 Acknowledgments
 
